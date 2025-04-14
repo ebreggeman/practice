@@ -6,3 +6,5 @@ I know this seems menial but its a good crash course in understanding what exact
 
 Hi Sean! I just saw this in here. I will start working on this project later today and this weekend! I think this is a great first task, as I followed a few tutorials and don't necessarily understand what everything even does in these files. So that will give me lots to think about and work on! 
 Thank you! 
+
+Of course :) if you ever want to setup a call to be able to get more info/explainations on ANYTHING please feel free, im sitting at home coding most days lol
